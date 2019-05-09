@@ -1,7 +1,7 @@
 package com.chen.library.http;
 
 
-import com.qiang.lib.log.LogCat;
+import com.chen.library.log.LogCat;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
@@ -35,7 +35,6 @@ import okhttp3.Request;
 import okhttp3.RequestBody;
 import okhttp3.Response;
 import okhttp3.TlsVersion;
-
 public class HttpLauncher {
 
     private static HttpLauncher _instance;
