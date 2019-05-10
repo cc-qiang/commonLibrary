@@ -18,3 +18,4 @@
 /chenLibrary.iml
 /gradlew
 /gradlew.bat
+!/gradle/
